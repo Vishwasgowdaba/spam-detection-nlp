@@ -54,8 +54,8 @@ spam-detection/
 ├── tests/                 # Unit tests
 └── requirements.txt       # Dependencies
 
-# What This Demonstrates
-# ✅ ML Fundamentals: Feature engineering, evaluation
-# ✅ Software Engineering: Modular code, testing
-# ✅ Problem Solving: Handling class imbalance
-# ✅ Deployment Readiness: API integration potential
+## What This Demonstrates
+ ✅ ML Fundamentals: Feature engineering, evaluation
+ ✅ Software Engineering: Modular code, testing
+ ✅ Problem Solving: Handling class imbalance
+ ✅ Deployment Readiness: API integration potential
