@@ -1,5 +1,5 @@
 # 🔍 SMS Spam Detection - Machine Learning Project
-**By [Vishwas BA]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://yourportfolio.com)
+**By [Vishwas BA]** | 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0-orange) ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-Applied-brightgreen)
 
