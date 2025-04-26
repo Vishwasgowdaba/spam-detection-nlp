@@ -39,8 +39,9 @@ git clone https://github.com/Vishwasgowdaba/spam-detection.git
 python train.py
 ```
 # 
-python predict.py "Claim your free prize now!"
+```python predict.py "Claim your free prize now!"
 # Output: "SPAM (99.2% confidence)"
+```
 # 📂 Project Structure
 ```
 spam-detection/
