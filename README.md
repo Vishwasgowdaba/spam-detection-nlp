@@ -56,7 +56,7 @@ spam-detection/
 └── requirements.txt       # Dependencies
 ```
 
-## What This Demonstrates
+### What This Demonstrates
  ✅ ML Fundamentals: Feature engineering, evaluation
  ✅ Software Engineering: Modular code, testing
  ✅ Problem Solving: Handling class imbalance
