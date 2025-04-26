@@ -33,13 +33,12 @@ A production-grade spam classifier achieving **98.5% accuracy**, demonstrating:
 | F1-Score | 0.95 | 0.96 |
 
 git clone https://github.com/Vishwasgowdaba/spam-detection.git
-cd spam-detection
-pip install -r requirements.txt
 
-# Train model
+# Train Model
+```
 python train.py
-
-# Make prediction
+```
+# 
 python predict.py "Claim your free prize now!"
 # Output: "SPAM (99.2% confidence)"
 
