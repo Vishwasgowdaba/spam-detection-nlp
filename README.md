@@ -41,17 +41,21 @@ python train.py
 # 
 python predict.py "Claim your free prize now!"
 # Output: "SPAM (99.2% confidence)"
-
-spam-detection/
-├── data/                  # Dataset and processed files
-├── models/                # Saved models
-├── notebooks/             # EDA and experiments
-├── src/
-│   ├── preprocessing.py   # Custom text cleaner
-│   ├── train.py           # Training pipeline
-│   └── predict.py         # Prediction script
-├── tests/                 # Unit tests
-└── requirements.txt       # Dependencies
+## 📂 Project Structure
+📦 spam-detector
+├── 📂 data
+│ ├── 📄 sms_spam.csv
+│ └── 📂 processed
+├── 📂 models
+│ └── 📄 spam_model.pkl
+├── 📂 notebooks
+│ ├── 📄 EDA.ipynb
+│ └── 📄 Modeling.ipynb
+├── 📂 src
+│ ├── 📄 preprocess.py
+│ ├── 📄 train.py
+│ └── 📄 predict.py
+└── 📄 requirements.txt
 
 ## What This Demonstrates
  ✅ ML Fundamentals: Feature engineering, evaluation
